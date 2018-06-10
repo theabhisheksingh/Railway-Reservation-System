@@ -1,0 +1,14 @@
+
+* To view Wailting list use PNR_NO:1231234570/1231234577
+
+* Train No:1234
+
+* Class: a1
+
+* Departure date:2012/03/31
+
+  Mysore - Delhi
+
+Login : navil@gmail.com
+passwd: 123	
+credit card No:1231231231231231
